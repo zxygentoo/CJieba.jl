@@ -3,6 +3,9 @@ uuid = "ed619804-44bc-4c56-bdd2-11e3a27b3f1e"
 authors = ["Alex Zheng"]
 version = "0.1.0"
 
+[deps]
+CJieba_jll = "a2ce7b33-90ba-591a-b03f-46764c5db586"
+
 [compat]
 julia = "1"
 

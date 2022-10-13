@@ -65,7 +65,7 @@ Output:
  "大厦"
 ```
 
-Manually create and free handle:
+Manually create handle, add user word, and manually free handle:
 
 ```julia
 jieba = JIEBA()
